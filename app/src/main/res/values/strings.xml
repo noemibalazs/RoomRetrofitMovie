@@ -5,6 +5,8 @@
     <string name="favorite">Favorite</string>
     <string name="details">Movie Details</string>
     <string name="fav_det">Favorite Movie Details</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
 
     <string name="show">show</string>
     <string name="title">Miss Sloane</string>
@@ -19,6 +21,7 @@
     <string name="author">Author</string>
     <string name="comments">Comments</string>
     <string name="take_a_look">Sneak peak</string>
+    <string name="create_a_chooser">Share movie trailers</string>
 
     <string name="toast">Something went wrong, try it later!</string>
     <string name="heart_picked_up">Favorite</string>
